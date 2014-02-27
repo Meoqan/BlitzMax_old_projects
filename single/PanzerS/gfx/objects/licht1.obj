@@ -1,0 +1,14 @@
+[OBJECT]
+NAME=licht1
+AUTOR=Lastmayday
+NULL.X=16
+NULL.Y=16
+PLAYON.IDLE=idle
+
+[ANIMATE]
+EVENTNAME=idle
+LENGTH=80
+NEXT=idle
+
+USE=licht_1_1.png
+USE=licht_1_2.png

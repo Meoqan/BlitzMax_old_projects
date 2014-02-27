@@ -1,0 +1,17 @@
+id=2
+itemid=4
+name=Havy Destroyer
+tex=ship03.png
+texover=shipo03.png
+sizex=48
+sizey=64
+
+life=200
+shield=300
+maxcargo=5000
+schub=1
+rotation=8
+
+schaden=25
+schussspeed=2000
+reichweite=200

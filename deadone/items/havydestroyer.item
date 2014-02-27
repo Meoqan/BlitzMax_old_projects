@@ -1,0 +1,12 @@
+id=4
+shipid=2
+name=Havy Destroyer
+tex=itemB01.png
+texover=ship03.png
+
+size=50000
+
+needitemid1=1
+needitemamount1=800
+
+buildtime=240000

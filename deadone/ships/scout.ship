@@ -1,0 +1,17 @@
+id=4
+itemid=6
+name=Scout
+tex=ship05.png
+texover=shipo05.png
+sizex=16
+sizey=16
+
+life=25
+shield=50
+maxcargo=100
+schub=2.75
+rotation=25
+
+schaden=1
+schussspeed=1000
+reichweite=150

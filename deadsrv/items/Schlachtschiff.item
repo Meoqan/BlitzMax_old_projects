@@ -1,0 +1,12 @@
+id=7
+shipid=5
+name=Schlachtschiff
+tex=itemB01.png
+texover=ship06.png
+
+size=500000
+
+needitemid1=1
+needitemamount1=5000
+
+buildtime=600000

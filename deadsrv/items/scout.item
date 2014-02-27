@@ -1,0 +1,12 @@
+id=6
+shipid=4
+name=Scout
+tex=itemB01.png
+texover=ship05.png
+
+size=1000
+
+needitemid1=1
+needitemamount1=15
+
+buildtime=30000

@@ -1,0 +1,6 @@
+id=1
+name=Rocket T10
+tex=rocket-T10.png
+texs=rocket-T10-s.png
+cooldown=3000
+schaden=20

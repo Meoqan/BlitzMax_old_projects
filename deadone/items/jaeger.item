@@ -1,0 +1,12 @@
+id=2
+shipid=0
+name=Jaeger
+tex=itemB01.png
+texover=ship01.png
+
+size=4000
+
+needitemid1=1
+needitemamount1=50
+
+buildtime=60000

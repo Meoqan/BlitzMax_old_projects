@@ -1,0 +1,36 @@
+x=500
+y=400
+id=0
+[begin]
+Willkommen in DeadOne,
+
+bitte beachten Sie folgende hinweise zur Steuerung des Spiels:
+Mit den tasten [W] und [S] Steuern Sie die Geschwindigkeit ihres Raumschiffes. Sie können allerdings nur nach vorne fliegen. Es ist keine Rückwärtsbewegung möglich.
+Mit den tasten [A] und [D] drehen Sie ihr Raumschiff in die gewünschte Richtung.
+Mit den tasten [Q] und [E] Steuern Sie das Zoomen der Minimap in der unteren rechten ecke.
+
+Mit der Maus Steuern Sie das zielen, klicken sie auf ein anderes Raumschiff links um es anzuvisieren und mit der rechten, um es anzuvisieren und das Feuer zu eröffnen.
+Sie können auch Asteroiden abbauen um sich Rohstoffe für ein neues Schiff zu beschaffen. Lassen Sie aber dennoch nicht ihr Raumschiff aus den Augen, da Piraten es für ein leichtes ziel halten.
+
+Ihr Raumschiff besitzt einen Feuerradius und einen toten Winkel dahinter, wo das schießen nicht möglich ist. Achten sie auf Gegner die hinter ihnen her sind.
+[end]
+
+
+
+x=300
+y=400
+id=1
+[begin]
+Föderale Republik von Evalum gibt bekannt:
+
+Gesucht: Kriegsherr John Darus
+Wegen: Landesverrat, Kriegstreiberei, Mord und Beschädigung Staatlichen Eigentums
+
+Bürger von Evalum,
+wir dürfen die Gefahr nicht mehr tolerieren die in denen ruht die sich gegen uns gewandt haben. Wir müssen die Terroristen die unser friedliches zusammen leben bedrohen jetzt vernichten. 
+
+Tod oder lebendig.
+Belohnung 150$
+(Hinweis des Programmierers: Questsystem noch nicht eingebaut :o)
+[end]
+

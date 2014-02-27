@@ -1,0 +1,6 @@
+id=0
+name=Rocket T5
+tex=rocket-T5.png
+texs=rocket-T5-s.png
+cooldown=1000
+schaden=10

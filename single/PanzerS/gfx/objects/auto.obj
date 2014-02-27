@@ -1,0 +1,14 @@
+[OBJECT]
+NAME=auto
+AUTOR=Lastmayday
+NULL.X=16
+NULL.Y=16
+SIZE=32
+PLAYON.IDLE=idle
+
+[ANIMATE]
+EVENTNAME=idle
+LENGTH=80
+NEXT=idle
+
+USE=auto_1.png

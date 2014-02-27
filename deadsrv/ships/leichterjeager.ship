@@ -1,0 +1,17 @@
+id=1
+itemid=3
+name=Leichter Jaeger
+tex=ship02.png
+texover=shipo02.png
+sizex=32
+sizey=32
+
+life=100
+shield=100
+maxcargo=300
+schub=2.2
+rotation=17.5
+
+schaden=2.5
+schussspeed=500
+reichweite=250

@@ -1,0 +1,17 @@
+id=0
+itemid=2
+name=Jaeger
+tex=ship01.png
+texover=shipo01.png
+sizex=32
+sizey=32
+
+life=125
+shield=150
+maxcargo=500
+schub=2
+rotation=15
+
+schaden=7.5
+schussspeed=1000
+reichweite=250

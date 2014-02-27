@@ -1,0 +1,17 @@
+id=5
+itemid=7
+name=Schlachtschiff
+tex=ship06.png
+texover=shipo06.png
+sizex=48
+sizey=128
+
+life=2000
+shield=3000
+maxcargo=50000
+schub=0.45
+rotation=5
+
+schaden=100
+schussspeed=4000
+reichweite=300

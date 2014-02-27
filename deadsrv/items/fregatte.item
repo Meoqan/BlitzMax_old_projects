@@ -1,0 +1,12 @@
+id=5
+shipid=3
+name=Fregatte
+tex=itemB01.png
+texover=ship04.png
+
+size=25000
+
+needitemid1=1
+needitemamount1=200
+
+buildtime=120000

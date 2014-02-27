@@ -1,0 +1,12 @@
+id=3
+shipid=1
+name=Leichter Jaeger
+tex=itemB01.png
+texover=ship02.png
+
+size=3000
+
+needitemid1=1
+needitemamount1=60
+
+buildtime=60000

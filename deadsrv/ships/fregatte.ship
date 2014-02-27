@@ -1,0 +1,17 @@
+id=3
+itemid=5
+name=Fregatte
+tex=ship04.png
+texover=shipo04.png
+sizex=32
+sizey=48
+
+life=175
+shield=200
+maxcargo=1000
+schub=1.75
+rotation=11
+
+schaden=10
+schussspeed=1250
+reichweite=350

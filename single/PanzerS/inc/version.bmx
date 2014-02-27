@@ -1,0 +1,1 @@
+global main_version:string=" Version 0.8 by mayday.hostoi.com "

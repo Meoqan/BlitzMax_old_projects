@@ -1,0 +1,14 @@
+systemid=0
+systemname=Z00H00
+
+x=0
+y=0
+name=Testbase
+id=0
+[base]
+
+x=10
+y=10
+range=5
+mass=100
+[astrobelt]
